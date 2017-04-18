@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_app_that_ext_app_that_extends_hardware_table_table</description>
+        <name>x_snc_app_that_ext_app_that_extends_hardware_table_table</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-18 16:54:31</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>1447cb08dbd23200dcf8fd441d96194a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_app_that_ext_app_that_extends_hardware_table_table</sys_name>
+        <sys_package display_value="APP_That_Extends_Hardware_Table" source="x_snc_app_that_ext">06378b08dbd23200dcf8fd441d961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="APP_That_Extends_Hardware_Table">06378b08dbd23200dcf8fd441d961973</sys_scope>
+        <sys_update_name>sys_security_acl_1447cb08dbd23200dcf8fd441d96194a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-18 16:54:31</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
