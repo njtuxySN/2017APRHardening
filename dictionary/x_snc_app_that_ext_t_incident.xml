@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="t_incident" max_length="40" name="x_snc_app_that_ext_t_incident" type="collection"/>
+</database>

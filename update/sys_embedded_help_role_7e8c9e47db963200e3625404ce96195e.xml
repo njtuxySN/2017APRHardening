@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_app_that_ext.user" name="x_snc_app_that_ext.user">9237cb08dbd23200dcf8fd441d961943</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-04-27 21:29:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7e8c9e47db963200e3625404ce96195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9237cb08dbd23200dcf8fd441d961943</sys_name>
+        <sys_package display_value="APP_That_Extends_Hardware_Table" source="x_snc_app_that_ext">06378b08dbd23200dcf8fd441d961973</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="APP_That_Extends_Hardware_Table">06378b08dbd23200dcf8fd441d961973</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7e8c9e47db963200e3625404ce96195e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-04-27 21:29:42</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
