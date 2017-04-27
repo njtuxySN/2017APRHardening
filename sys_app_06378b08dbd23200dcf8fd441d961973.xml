@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu display_value="APP_That_Extends_Hardware_Table">d637cb08dbd23200dcf8fd441d961942</menu>
         <name>APP_That_Extends_Hardware_Table</name>

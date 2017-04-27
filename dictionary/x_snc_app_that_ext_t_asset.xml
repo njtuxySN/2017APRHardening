@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="alm_asset" label="t_Asset" max_length="40" name="x_snc_app_that_ext_t_asset" type="collection"/>
+</database>
